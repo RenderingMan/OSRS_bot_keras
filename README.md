@@ -5,4 +5,7 @@ A simple powermining Oldschool runescape bot made with keras and python
 how to run:
 python3 ./entry.py
 
+if you want to run the bot you must train the network:
+python3 ./entry.py -train
+
 (Dont forget to unzip the image.zip file if you want to train the networks)
