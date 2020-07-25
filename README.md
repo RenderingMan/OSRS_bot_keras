@@ -3,7 +3,7 @@ A simple powermining Oldschool runescape bot made with keras and python
 
 dependencies:<br>
 keras<br>
-xlib<br>
+python-xlib<br>
 pyautogui
 PIL/Pillow
 
