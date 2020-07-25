@@ -8,4 +8,4 @@ python3 ./entry.py
 if you want to run the bot you must train the network:<br>
 python3 ./entry.py -train
 
-(Dont forget to unzip the image.zip file if you want to train the networks)
+<b>(Dont forget to unzip the image.zip file if you want to train the networks)</b>
