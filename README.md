@@ -1,10 +1,11 @@
 # OSRS_bot_keras
 A simple powermining Oldschool runescape bot made with keras and python 
 
-dependancies:<br>
+dependencies:<br>
 keras<br>
 xlib<br>
 pyautogui
+PIL/Pillow
 
 
 how to run:<br>
